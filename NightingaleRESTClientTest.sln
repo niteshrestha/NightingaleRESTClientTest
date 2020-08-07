@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightingaleRESTClientTest", "NightingaleRESTClientTest\NightingaleRESTClientTest.csproj", "{B5ADCC30-3CAD-4757-952B-34D7D176B90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ADCC30-3CAD-4757-952B-34D7D176B90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ADCC30-3CAD-4757-952B-34D7D176B90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ADCC30-3CAD-4757-952B-34D7D176B90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ADCC30-3CAD-4757-952B-34D7D176B90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBB5E06-3A16-42B4-AD0C-4F5972C6BCF8}
+	EndGlobalSection
+EndGlobal
